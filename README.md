@@ -34,4 +34,4 @@ Constraints:
     Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 UML Diagram:
-![url](Observer Pattern UML Diagram.png)
+![ERD](https://github.com/AdrielFlorante/Observer-Pattern/blob/main/Observer%20Pattern%20UML%20Diagram.png)
